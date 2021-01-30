@@ -67,7 +67,7 @@ operadores = (
 ["Jazztel", 1074],
 ["MasMovil/PepePhone/Yoigo", 20],
 ["Orange/Amena", 832],
-["Adamo", 603]
+["Adamo", 603],
 )
 
 # POSICIONA EL CURSOR DEL TERMINAL n LÍNEAS ARRIBA
